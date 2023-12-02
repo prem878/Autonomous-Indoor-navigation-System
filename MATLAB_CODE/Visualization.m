@@ -54,3 +54,6 @@ delete(vidObj);
 
 % Clear variables
 clear vidObj mapPoints cameraPoses;
+% Author 
+   Chilumula.Prem Kumar.
+%
