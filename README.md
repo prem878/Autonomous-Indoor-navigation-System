@@ -18,3 +18,5 @@ Creating an autonomous indoor navigation system for a drone using MATLAB is a co
 **8. Visualization:** Display the estimated camera trajectory and the reconstructed map using MATLAB's visualization capabilities. This includes plotting the camera's path and visualizing the 3D map.
 
 Please note that this is a high-level overview, and the actual implementation of each step can be highly involved and may require fine-tuning and calibration based on your specific drone, camera, and environment. The quality of your results will depend on the accuracy of your feature extraction, matching, motion estimation, and loop closure detection methods, as well as the performance of your hardware.
+Code Author 
+Chilumula Prem Kumar.
